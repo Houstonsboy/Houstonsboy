@@ -7,7 +7,7 @@
 I'm a Computer Science student who loves building things that solve real-world problems—especially when AI, software engineering, and a little bit of hardware all come together. I enjoy taking complex ideas, from legal AI to embedded systems, and turning them into practical applications that people can actually use.
 
 🔭 Current Focus: Building my research project on improving digital evidence admissibility and legal research using GraphRAG, Vision-OCR, and multimodal AI for Kenya's Small Claims Court. I also enjoy experimenting with IoT projects using ESP32 and sensors. I build a music competiition app using spotify and hope it picks up<br>
-🌱 Learning & Exploration: Exploring Retrieval-Augmented Generation (RAG), GraphRAG, computer vision, distributed systems, cloud technologies, cybersecurity, and embedded systems. I'm always looking for ways to make AI systems smarter, faster, and more useful.
+🌱 Learning & Exploration: Exploring Retrieval-Augmented Generation (RAG), GraphRAG, computer vision, distributed systems, cloud technologies, cybersecurity, and embedded systems. I'm always looking for ways to make AI systems smarter, faster, and more useful. <br>
 ⚡ Core Interests: Artificial Intelligence, Software Engineering, Cybersecurity, IoT & Embedded Systems, Distributed Systems, Cloud Computing, and building tools that bridge technology with real-world challenges.
 ---
 
