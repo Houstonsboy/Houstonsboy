@@ -16,7 +16,7 @@ I'm a Computer Science student who loves building things that solve real-world p
 *Tip: You can customize or add categories below to match your unique skillset. You can find more badge styles and icons at [Shields.io](https://shields.io/).*
 
 ### Core Competencies & Core Stack
-<img src="https://img.shields.io/badge/[Laravel]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/[ReactJs and ReactNative]-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/[Flutter]-20232A?style=for-the-badge" />   <img src="https://img.shields.io/badge/[Python]-20232A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/[Laravel]-3776AB?style=for-the-badge" /> <img src="https://img.shields.io/badge/ReactJs and ReactNative-F7DF1E?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Flutter-20232A?style=for-the-badge" />   <img src="https://img.shields.io/badge/[Python]-20232A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge" /> <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge" />
 
 ### Tooling, Infrastructure & Ecosystem
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
